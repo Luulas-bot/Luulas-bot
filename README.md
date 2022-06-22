@@ -7,6 +7,6 @@ project, the main condition is that it needs to be something cool to do and lear
 
 -If someone wants to do a collaboration and the project is cool, I'm in.
 
-If you want to talk to me or reach me for a collaboration or other doubts, you can write me an email at this adress: linyeravago@gmail.com
+If you want to talk to me or reach me for a collaboration or other doubts, you can write me an email at this adress: lucas.lengy@gmail.com
 
 Hope you like my repository.
